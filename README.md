@@ -1,4 +1,4 @@
-# sem-6-project
+# MINI-PROJECT
 
 For emergency service providers, giving their service in least time shows their best
 performance. Emergency hospitals will be at their best if the ambulance reaches the site
